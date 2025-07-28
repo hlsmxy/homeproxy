@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,exhentai.org,Policy
 DOMAIN-SUFFIX,hath.network,Policy
 DOMAIN-SUFFIX,hentaiverse.org,Policy
 IP-CIDR,178.175.128.0/21,Policy
+IP-CIDR6,2606:4700:3030::6815:3001/32,policy
 
 
 # 域名关键字匹配
