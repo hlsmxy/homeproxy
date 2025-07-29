@@ -9,7 +9,7 @@ DOMAIN,pt.keepfrds.com,Policy
 DOMAIN,www.hddolby.com,Policy
 
 DOMAIN,api.hddolby.com,Policy
-# DOMAIN,pterclub.com,Policy
+DOMAIN,pterclub.com,Policy
 
 DOMAIN-SUFFIX,e-hentai.org,Policy
 DOMAIN-SUFFIX,ehgt.org,Policy
