@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,patch.moe,Policy
 # 域名后缀匹配
 DOMAIN-SUFFIX,movie-pilot.org,Policy
 DOMAIN-SUFFIX,asmr.one,Policy
+DOMAIN-SUFFIX,kiko-play-niptan.one,Policy
 DOMAIN-SUFFIX,1panel.jp,Policy
 DOMAIN,sunnypt.top,Policy
 DOMAIN,pt.keepfrds.com,Policy
