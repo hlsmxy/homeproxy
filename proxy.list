@@ -15,9 +15,10 @@ DOMAIN-SUFFIX,oceancloud.asia,Policy
 DOMAIN,sunnypt.top,Policy
 DOMAIN-SUFFIX,anyrouter.top,Policy
 DOMAIN,emby.dnscf.dpdns.org,Policy
-DOMAIN,free.lilyemby.com,Policy
-DOMAIN,danmu.lily.lat,Policy
-DOMAIN,origin.lilyemby.cc,Policy
+DOMAIN-SUFFIX,lilyemby.com,Policy
+DOMAIN-SUFFIX,lilyya.top,Policy
+DOMAIN-SUFFIX,lily.lat,Policy
+DOMAIN-SUFFIX,lilyemby.cc,Policy
 DOMAIN,api.dandanplay.net
 DOMAIN,pt.keepfrds.com,Policy
 DOMAIN,www.hddolby.com,Policy
